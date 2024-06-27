@@ -1,0 +1,159 @@
+/* Site-Header */
+
+.site-header {
+background-color: #fff;
+}
+
+.sitenav-list {
+  list-style: none;
+}
+
+.sitenav-link {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #000000;
+}
+
+.main-button {
+font-weight: 700;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.5px;
+text-decoration: none;
+background-color: #FF7500;
+color: #FFFFFF;
+}
+
+/* Site-Hero */
+.site-hero {
+  background-color: #252420;
+  color: #fff;
+}
+
+.hero-content {
+  width: 390px;
+}
+
+.orange-line {
+  width: 80px;
+  height: 3px;
+  background-color: #FF7500;
+}
+
+.hero-heading {
+font-size: 40px;
+line-height: 1.2;
+letter-spacing: 0.5px;
+}
+
+.hero-text {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.5px;
+}
+
+.hero-img {
+  width: 510px;
+  height: 510px;
+}
+
+/* Site-Features */
+
+.features-heading {
+width: 440px;
+font-size: 72px;
+line-height: 1.2;
+letter-spacing: 0.5px;
+color: #000000;
+
+}
+.featur {
+  width: 340px;
+}
+
+.featur-icon-wrapper {
+width: 100px;
+height: 100px;
+background-color: rgba(255, 117, 0, 0.2);
+}
+
+.featur-title {
+font-size: 24px;
+line-height: 1.2;
+letter-spacing: 0.5px;
+
+}
+
+.featur-info {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.5px;
+
+}
+
+/* Site-Promo */
+
+.promo {
+  background-color: #252420;
+  color: #fff;
+}
+
+.promo-content {
+  width: 440px;
+}
+
+.promo-heading {
+font-size: 40px;
+line-height: 1.2;
+letter-spacing: 0.5px;
+
+}
+
+.promo-text {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.5px;
+
+}
+
+.promo-highlight {
+  color: #FF7500;
+}
+
+.promo-img {
+  width: 440px;
+  height: 440px;
+  object-fit: cover;
+
+}
+
+/* Site-Footer */
+.site-footer {
+  background-color: #F8F8F8;
+}
+
+.site-footer ul{
+  list-style: none;
+}
+
+.site-footer-line {
+  width: 1100px;
+  height: 2px;
+  background-color: rgba(37, 36, 32, 0.5);
+}
+
+.site-footer-links {
+width: 225px;
+
+}
+.site-footer-links a{
+font-size: 16px;
+line-height: 19px;
+color: #252420;
+text-decoration: none;
+
+}
